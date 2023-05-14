@@ -1,5 +1,6 @@
 # TV-shows-assosiation-rule
 This dataset contains details of more than 9000 viewers watching TV shows. Each rows represent the TV shows they have watched together. The dataset was heavily inspired from the famous groceries dataset which is used to learn association rule learning.
+
 Conclusions:
 
 1 The association between "Fringe" and "Lost" is strong, with a high lift value of 11.392405, indicating that these two items are highly likely to be purchased together.
